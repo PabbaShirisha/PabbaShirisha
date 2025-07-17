@@ -15,8 +15,8 @@
 
 ---
 
-## 📈 GitHub Stats
-<!--<p align="center">
+<!--## 📈 GitHub Stats
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PabbaShirisha&show_icons=true&theme=radical" alt="Shirisha's GitHub Stats" />
 </p>
 -->
@@ -26,15 +26,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabbaShirisha&layout=compact&theme=radical" alt="Shirisha's Most Used Languages" />
 </p>
 
-## 🔥 Streak Stats
+<!--## 🔥 Streak Stats
 
-<!--<p align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PabbaShirisha&theme=radical" alt="Shirisha's Contribution Streak" />
 </p>
 -->
 
 ---
-
-
 
 **Thank you for visiting my profile!**
