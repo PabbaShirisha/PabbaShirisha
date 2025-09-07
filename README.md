@@ -1,6 +1,7 @@
 <h1 align="center">Hello! I'm Shirisha Pabba 👋</h1>
 
-- 💻 MERN Stack Developer Intern @ Inventive Bay Technologies  
+- 💻 Java Full Stack Trainee @ Codegnan IT Solutions  
+- 💻 Full Stack Developer Intern @ Inventive Bay Technologies  
 - 🎓 B.Tech CSE Graduate – University College of Engineering, Kakatiya University  
 - 💻 Ex-Intern at Zen Technologies  
 - 🚀 Aspiring Full Stack Developer with a strong focus on frontend and backend technologies.  
